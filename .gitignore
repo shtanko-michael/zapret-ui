@@ -1,0 +1,17 @@
+release
+
+## Go/Wails build outputs
+/build/bin/
+
+## Node / frontend
+/node_modules/
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.wails/
+
+## Generated Wails JS bindings (generated on `wails dev/build`)
+/frontend/wailsjs/
+
+## Tooling / IDE
+/.idea/
+*.log
