@@ -2,6 +2,8 @@
 
 GUI-приложение для управления стратегиями zapret (Wails + React/TypeScript).
 
+<img width="994" height="816" alt="image" src="https://github.com/user-attachments/assets/1fdb76b6-5cc4-4179-8526-0999babcdc60" />
+
 ## Скачивание готовых версий
 
 Готовые версии приложения публикуются в репозитории `Flowseal/zapret-discord-youtube`:
